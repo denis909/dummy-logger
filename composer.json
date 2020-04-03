@@ -1,0 +1,12 @@
+{
+    "name": "denis909/dummy-logger",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis909\\DummyLogger\\": ""
+        }
+    },
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
